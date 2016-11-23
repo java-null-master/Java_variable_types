@@ -5,11 +5,11 @@ the range of values that can be stored within that memory; and the set of operat
 You must declare all variables before they can be used.
 
 
-"""
+'''
 int a, b, c;         // Declares three ints, a, b, and c.
 int a = 10, b = 10;  // Example of initialization
 byte B = 22;         // initializes a byte type variable B.
 double pi = 3.14159; // declares and assigns a value of PI.
 char a = 'a';        // the char variable a iis initialized with value 'a'
 
-"""
+'''
